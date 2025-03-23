@@ -1,5 +1,5 @@
 <h2> Hi, I'm Yehor Havryliuk! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnU5dXZnbGFyamd3c2o1am43YjF0c2ZnOHQyd3Zma2NzMDNuN3NueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="230">
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnU5dXZnbGFyamd3c2o1am43YjF0c2ZnOHQyd3Zma2NzMDNuN3NueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="210">
 <p><em>Software Enginner, University teacher at <a href="https://karazin.ua/en/">Karazin University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Java Software Engineer at <a href="https://en.otpbank.com.ua">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
