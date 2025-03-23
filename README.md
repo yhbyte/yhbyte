@@ -6,20 +6,25 @@
 
 [![Linkedin: yehor-havryliuk](https://img.shields.io/badge/-yehor_havryliuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yehor-havryliuk/)](https://www.linkedin.com/in/yehor-havryliuk/)
 
+**My telegram channel**: [Bytes&Dragons](https://t.me/bytesanddragonsua)
+
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmN4aHlleTkzNmk0cGticHNqeXM1bGszdW0zOGp5NTNodmdrNDNoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="50"> A little more about me...  
 
 ```java
 public class Yehor {
     private List<String> code;
-    private List<String> tools;
+    private List<String> backendTools;
+    private List<String> aiTools;
     private List<String> architecture;
     private String challenge;
 
-    public Yehor(List<String> code, List<String> tools, 
-                 List<String> architecture, String challenge) {
+    public Yehor(List<String> code, List<String> backendTools, 
+                 List<String> aiTools, List<String> architecture, 
+                 String challenge) {
         this.code = code;
-        this.tools = tools;
+        this.backendTools = backendTools;
+        this.aiTools = aiTools;
         this.architecture = architecture;
         this.challenge = challenge;
     }
@@ -27,6 +32,7 @@ public class Yehor {
 Yehor yehor = new Yehor(
             Arrays.asList("Java", "Python", "HTML", "C#"),
             Arrays.asList("Spring", "Quarkus", "Hibernate", "Kafka", "PostgreSQL", "MySQL", "Docker", "Grafana", "OAuth", "OIDC", "Jenkins"),
+            Arrays.asList("SKLearn", "PyTorch", "Pandas", "Custom LLMs"),
             Arrays.asList("microservices", "event-driven", "design system patterns"),
             "I am doing the #100DaysOfCode challenge focused on Java and Python"
         );
