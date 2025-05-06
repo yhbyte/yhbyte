@@ -30,7 +30,7 @@ public class Yehor {
     }
 
 Yehor yehor = new Yehor(
-            Arrays.asList("Java", "Python", "HTML", "C#"),
+            Arrays.asList("Java", "Python", "HTML"),
             Arrays.asList("Spring", "Quarkus", "Hibernate", "Kafka", "PostgreSQL", "MySQL", "Docker", "Grafana", "OAuth", "OIDC", "Jenkins"),
             Arrays.asList("SKLearn", "PyTorch", "Pandas", "Custom LLMs"),
             Arrays.asList("microservices", "event-driven", "design system patterns"),
